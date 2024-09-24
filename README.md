@@ -11,8 +11,8 @@
   <li>Clone the Repository:</li>
   <pre>git clone https://github.com/MohammedHany-saqr/To-Do-List.git</pre>
     <li>Install Dependencies:</li>
-    <pre>cd to-do-list-game-react
-    npm install</pre>
+    <pre>cd to-do-list
+npm install</pre>
     <li>Run the Application:</li>
     <pre>npm start</pre>
 </ol>
