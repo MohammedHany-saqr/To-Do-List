@@ -9,7 +9,7 @@
 <h3>Getting Started:</h3>
 <ol>
   <li>Clone the Repository:</li>
-  <pre>git clone https://github.com/<your-username>/to-do-list-game-react.git</pre>
+  <pre>git clone https://github.com/MohammedHany-saqr/To-Do-List.git</pre>
     <li>Install Dependencies:</li>
     <pre>cd to-do-list-game-react
     npm install</pre>
